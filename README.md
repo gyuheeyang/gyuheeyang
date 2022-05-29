@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=afcfa9&height=250&section=header&text=gyuhee's%20github&fontColor=fffff0&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rect&color=afcfa9&height=150&section=header&text=gyuhee's%20github&fontColor=fffff0&fontSize=80)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gyuheeyang.gyuheeyang)
 
