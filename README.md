@@ -5,11 +5,9 @@
 
 
 ```
-  
 import iced coffee and cats ;
   
 public class aboutGyuhee {
-  
 public static void main(String[] args) {
      String name = "Gyuhee Yang";
      int age = 26;
@@ -19,8 +17,6 @@ public static void main(String[] args) {
      while(true){
       pritnln("keep practicing and be positive!");
      }
-
   }  
 }  
-
 ```
