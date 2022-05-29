@@ -3,10 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gyuheeyang.gyuheeyang)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuheeyang&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuheeyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ```
 import iced coffee and cats;
   
@@ -25,5 +21,12 @@ public static void main(String[] args) {
   }  
 }  
 ```
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuheeyang&show_icons=true&theme=vue)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyuheeyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
