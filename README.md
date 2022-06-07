@@ -6,13 +6,13 @@
 ```
 import iced coffee and cats;
   
-public class aboutGyuhee {
+public class AboutGyuhee {
 public static void main(String[] args) {
      String name = "Gyuhee Yang";
      int age = 26;
      int koreanAge = age + 2; //i know it's weird 
      String[] languages = {"Java", "JavaScript", "Python", "C++"};
-     String language_spoken = {"Korean", "English"};
+     String languageSpoken = {"Korean", "English"};
   
      while(true){
       pritnln("keep practicing and be positive!");
