@@ -3,25 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gyuheeyang.gyuheeyang)
 
 
-```
-import iced coffee and cats;
-  
-public class AboutGyuhee {
-public static void main(String[] args) {
-     String name = "Gyuhee Yang";
-     int age = 26;
-     int koreanAge = age + 2; //i know it's weird 
-     String[] languages = {"Java", "JavaScript", "Python", "C++"};
-     String languageSpoken = {"Korean", "English"};
-  
-     while(true){
-      pritnln("keep practicing and be positive!");
-     }
-     
-  }  
-}  
-```
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuheeyang&show_icons=true&theme=vue)
 
